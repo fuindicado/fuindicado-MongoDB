@@ -1,0 +1,37 @@
+[
+	{
+		serviceName : "Elétrica"
+	}, 
+
+	{
+		serviceName : "Hidráulica"
+	},
+
+	{
+		serviceName : "Obra"
+	}, 
+
+	{
+		serviceName : "Artesanato"
+	}, 
+
+	{
+		serviceName : "Corte e Costura"
+	},
+
+	{
+		serviceName : "Limpeza Geral"
+	},
+
+	{
+		serviceName : "Aulas Particulares"
+	},
+
+	{
+		serviceName : "Carpintaria"
+	},
+
+	{
+		serviceName : "Refrigeração"
+	}
+]

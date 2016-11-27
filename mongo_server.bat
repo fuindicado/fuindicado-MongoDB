@@ -1,0 +1,1 @@
+mongod.exe --dbpath C:\Java\tools\data_base\mongodb

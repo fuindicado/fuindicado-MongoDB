@@ -1,0 +1,154 @@
+[
+	{
+		name : "João Ferreira",
+		phone : "21999850489",
+		cep : "21540190",
+		address : "Av. Brasil, 4850, Bangu",
+		cpf : "01212365445",
+		email : "jFerreira@gmail.com",
+		nick_name : "jFerreira",
+		password : "jFerreira@123",
+		evaluation : "4",
+		obs : "Trabalha somente fins de semana",
+		services : [{
+			service : "Elétrica"
+		}, 
+		{
+			service : "Hidráulica"
+		}]
+	}, 
+
+	{
+		name : "Maria Silva",
+		phone : "219985070789",
+		cep : "21780990",
+		address : "Estrada do Portela, 1050, Madureira",
+		cpf : "12232121321",
+		email : "mSilva@hotmail.com",
+		nick_name : "mSilva",
+		password : "mSilva@123",
+		evaluation : "5",
+		obs : "Trabalha somente de Segunda a Sexta-Ferira",
+		services : [{
+			service : "Corte e Costura"
+		}]
+	},
+
+	{
+		name : "Alexandre Costa",
+		phone : "21985690708",
+		cep : "8578798798",
+		address : "Av. dos Italianos, 808, Rocha Miranda",
+		cpf : "65454654546",
+		email : "acosta@outlook.com",
+		nick_name : "acosta",
+		password : "acosta@123",
+		evaluation : "4",
+		obs : "Trabalha somente fins de semana",
+		services : [{
+			service : "Carpintaria"
+		}]
+	},
+
+	{
+		name : "Fernanda Ribeiro",
+		phone : "21988885555",
+		cep : "00045468",
+		address : "Rua Caiuá, 745, Colégio",
+		cpf : "65465484654",
+		email : "jFerreira@gmail.com",
+		nick_name : "jFerreira",
+		password : "jFerreira@123",
+		evaluation : "5",
+		obs : "Trabalha somente Segundas e Quartas-Feiras",
+		services : [{
+			service : "Aulas Particulares"
+		}]
+	},
+
+	{
+		name : "Carlos Henrique",
+		phone : "21980544568",
+		cep : "45654878",
+		address : "Av. Brasil, 7002, Penha",
+		cpf : "88788987898",
+		email : "chenrique@gmail.com",
+		nick_name : "chenrique",
+		password : "chenrique@123",
+		evaluation : "4",
+		obs : "",
+		services : [{
+			service : "Obra"
+		}]
+	},
+
+	{
+		name : "Algusto Motta",
+		phone : "21945465484",
+		cep : "64555456",
+		address : "Rua dos Rubis, 880, Rocha Miranda",
+		cpf : "88878987898",
+		email : "amotta@yahoo.com",
+		nick_name : "amotta",
+		password : "amotta@123",
+		evaluation : "4",
+		obs : "Trabalha todos os dias da semana",
+		services : [{
+			service : "Obra"
+		}, 
+		{
+			service : "Hidráulica"
+		}]
+	},
+
+	{
+		name : "Marcio Campos",
+		phone : "21970408589",
+		cep : "77788989",
+		address : "Av. Edgard Romero, 555, Madureira",
+		cpf : "123456789",
+		email : "mcampos@gmail.com",
+		nick_name : "mcampos",
+		password : "mcampos@123",
+		evaluation : "3",
+		obs : "Trabalha somente fins de semana",
+		services : [{
+			service : "Elétrica"
+		}]
+	},
+
+	{
+		name : "Luana Rodrigues",
+		phone : "21988500110",
+		cep : "21510181",
+		address : "Rua Jacé, 330, Rocha Miranda",
+		cpf : "887778898789",
+		email : "lrodrigues@gmail.com",
+		nick_name : "lrodrigues",
+		password : "lrodrigues@123",
+		evaluation : "5",
+		obs : "Trabalha somente Quintas-Feiras",
+		services : [{
+			service : "Elétrica"
+		}, 
+		{
+			service : "Limpeza Geral"
+		}]
+	},
+
+	{
+		name : "Pedro Oliveira",
+		phone : "21978789898",
+		cep : "21540190",
+		address : "Rua dos Diamantes, 220, Rocha Miranda",
+		cpf : "87778894454",
+		email : "poliveira@gmail.com",
+		nick_name : "poliveira",
+		password : "poliveira@123",
+		evaluation : "5",
+		obs : "Trabalha somente no 2º Semestre do ano",
+		services : [{
+			service : "Artesanato"
+		}]
+	}
+]
